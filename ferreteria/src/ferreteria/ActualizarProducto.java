@@ -22,6 +22,8 @@ public class ActualizarProducto extends javax.swing.JInternalFrame {
 public String strSQL="";
 public String var="ID_PRODUCTO",busqued="0",var2="NOMBRE";
 
+
+//github
     public ActualizarProducto() {
         initComponents();
         jButton2.setVisible(false);  
