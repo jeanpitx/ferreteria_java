@@ -17,7 +17,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author alberto
+ * @author ´
  */
 public class CreditoCliente extends javax.swing.JInternalFrame {
 public String strSQL="";public String strSQL2="";
