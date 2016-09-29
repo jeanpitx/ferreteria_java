@@ -618,6 +618,8 @@ return true;
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
 buscar();
+JOptionPane.showMessageDialog(this, "Datos registrado con exito..!!");
+
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void masActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_masActionPerformed
